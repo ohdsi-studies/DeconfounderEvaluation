@@ -14,5 +14,5 @@ Empirical Evaluation of the Deconfounder
 - Publications: **-**
 - Results explorer: **-**
 
-An empirical evaluation of the Medical Deconfounder, [https://arxiv.org/abs/1904.02098](Zhang et al. 2019) a machine learning algorithm that unbiasedly estimates treatment effects from observational healthcare data.
+An empirical evaluation of the Medical Deconfounder, ([Zhang et al. 2019)](https://arxiv.org/abs/1904.02098)) a machine learning algorithm that unbiasedly estimates treatment effects from observational healthcare data.
 
